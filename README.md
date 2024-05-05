@@ -22,7 +22,8 @@ How to Use
  <li> Select a voice from the dropdown menu.</li> 
  <li> Click the "Speech" button to listen to the text as speech.</li> 
 </ul>
-Demo<br>
-You can view a live demo of the project here.
+<br>
 
 Screenshots
+![Capture](https://github.com/coops15/Text-to-speach-converter/assets/137200668/ec5d0487-eb5f-4216-9e50-e204bbd87544)
+
